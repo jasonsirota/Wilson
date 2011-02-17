@@ -1,0 +1,5 @@
+c:\users\jsirota\documents\code\Owin\OwinHost\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jsirota\documents\code\Owin\OwinHost\bin\Debug\OwinHost.exe
+c:\users\jsirota\documents\code\Owin\OwinHost\bin\Debug\OwinHost.pdb
+c:\users\jsirota\documents\code\Owin\OwinHost\obj\x86\Debug\OwinHost.exe
+c:\users\jsirota\documents\code\Owin\OwinHost\obj\x86\Debug\OwinHost.pdb
